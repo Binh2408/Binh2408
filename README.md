@@ -67,4 +67,4 @@
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Web Design for Everybody:
 Basics of Web
-Development & Coding]([https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG](https://www.coursera.org/account/accomplishments/specialization/certificate/ZHQMYPBDNP3N))
+Development & Coding]([https://www.coursera.org/account/accomplishments/specialization/certificate/ZHQMYPBDNP3N](https://www.coursera.org/account/accomplishments/specialization/certificate/ZHQMYPBDNP3N))
