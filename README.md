@@ -65,9 +65,10 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Web Design for Everybody:
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)Web Design for Everybody:
 Basics of Web
-Development & Coding]([https://www.coursera.org/account/accomplishments/specialization/certificate/ZHQMYPBDNP3N](https://www.coursera.org/account/accomplishments/specialization/certificate/ZHQMYPBDNP3N))
+Development & Coding](https://www.coursera.org/account/accomplishments/specialization/certificate/ZHQMYPBDNP3N)
+
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green)Software Development
-Lifecycle:](https://www.coursera.org/account/accomplishments/specialization/certificate/Y4669PFV4E56)
+Lifecycle](https://www.coursera.org/account/accomplishments/specialization/certificate/Y4669PFV4E56)
 
