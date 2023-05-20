@@ -1,139 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content=
-		"width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="index.css">
-	<title>
-		Survey Form For Student         
-	</title>
-
-	
-</head>
-
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    
 <body>
+    <header class="jumbotron">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-6">ABC</div>
+                <div class="col-12 col-sm">ABC</div>
+            </div>    
+            
+            <div class="row">
+                <div class="col-12 col-sm-4 col-md-3"> ... </div> 
+                <div class="col col-sm col-md"> ... </div>
+
+            </div>
+        </div>
+
+    </header>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-4 col-md-3 order-sm-last "> 1 </div>
+                <div class="col col-sm col-md order-sm-first"> 2 </div>
+
+            </div>
+        </div>
+    </section>
+
+    <footer >
+        <div class="container">
+            <div class="row">
+                <div class="col-4 offset-1 col-sm-2"> 1 </div>
 	
-	<h1>Survey Form For Student</h1>
-	
-	<!-- Create Form -->
+                <div class="col-7 col-sm-5"> 2 </div>
 
-	<form id="form">
+                <div class="col-12 col-sm-4"> 3 </div>
 
-		<!-- Details -->
-		<div class="form-control">
-			<label for="name" id="label-name">
-				Name
-			</label>
+                <div class="col-auto"> 4 </div>
 
-			<!-- Input Type Text -->
-			<input type="text"
-				id="name"
-				placeholder="Enter your name" />
-		</div>
-
-		<div class="form-control">
-			<label for="email" id="label-email">
-				Email
-			</label>
-
-			<!-- Input Type Email-->
-			<input type="email"
-				id="email"
-				placeholder="Enter your email" />
-		</div>
-
-		<div class="form-control">
-			<label for="age" id="label-age">
-				Age
-			</label>
-
-			<!-- Input Type Text -->
-			<input type="text"
-				id="age"
-				placeholder="Enter your age" />
-		</div>
-
-		<div class="form-control">
-			<label for="role" id="label-role">
-				Which option best describes you?
-			</label>
-			
-			<!-- Dropdown options -->
-			<select name="role" id="role">
-				<option value="student">Student</option>
-				<option value="intern">Intern</option>
-				<option value="professional">
-					Professional
-				</option>
-				<option value="other">Other</option>
-			</select>
-		</div>
-
-		
-
-		<div class="form-control">
-			<label>Languages and Frameworks known
-				<small>(Check all that apply)</small>
-			</label>
-			<!-- Input Type Checkbox -->
-			<label for="inp-1">
-				<input type="checkbox"
-					name="inp">C</input></label>
-			<label for="inp-2">
-				<input type="checkbox"
-					name="inp">C++</input></label>
-			<label for="inp-3">
-				<input type="checkbox"
-					name="inp">C#</input></label>
-			<label for="inp-4">
-				<input type="checkbox"
-					name="inp">Java</input></label>
-			<label for="inp-5">
-				<input type="checkbox"
-					name="inp">Python</input></label>
-			<label for="inp-6">
-				<input type="checkbox"
-					name="inp">JavaScript</input></label>
-			<label for="inp-7">
-				<input type="checkbox"
-					name="inp">React</input></label>
-			<label for="inp-7">
-				<input type="checkbox"
-					name="inp">Angular</input></label>
-			<label for="inp-7">
-				<input type="checkbox"
-					name="inp">Django</input></label>
-			<label for="inp-7">
-				<input type="checkbox"
-					name="inp">Spring</input></label>
-		</div>
-
-		<div class="form-control">
-			<label for="comment">
-				Any comments or suggestions
-			</label>
-
-			<!-- multi-line text input control -->
-			<textarea name="comment" id="comment"
-				placeholder="Enter your comment here">
-			</textarea>
-		</div>
-
-		<!-- Multi-line Text Input Control -->
-		<button type="submit" value="submit">
-			Submit
-		</button>
-	</form>
-
-	
-
+            </div>
+        </div>
+    </footer>
 </body>
 
-
-
-
+<!-- jQuery first, then Popper.js, then Bootstrap JS. -->
+<script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
+<script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
+<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 
 </html>
