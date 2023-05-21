@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T15:36:13.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="Cf89IheHCNejse34dDI_" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T15:36:53.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="-Cc3sT1jBIgokPYGV3ki" version="21.3.2" type="github">
   <diagram name="Trang-1" id="Svt3AxRRErcWmsuKb8si">
     <mxGraphModel dx="2562" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4cCRmxf7Gw9smLwws6cL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CyQdqJGp9ICCdHWJKsOK-1" target="CyQdqJGp9ICCdHWJKsOK-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CyQdqJGp9ICCdHWJKsOK-1" value="Book tour system" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
